@@ -222,4 +222,3 @@ These guidelines are based on:
 ---
 
 **Remember**: When in doubt, consult your IRB, legal counsel, or data protection officer. It is better to be overly cautious than to risk patient privacy or violate regulations.
-
